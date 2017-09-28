@@ -1,3 +1,0 @@
-"""
-bad code and such
-"""
